@@ -35,6 +35,12 @@
 - 황진영 - 백엔드(Java)
 - 박대신 - 1. 프론트엔드(React), 2. 백엔드(Java)
 - 이석운 - 백엔드(Java,Python)
+  
+## 발표자료 정리하는 법
+1. 본인이름에 해당하는 컬럼에 Draft를 작성한다.
+2. 작성 완료 후에 Convert Issue 기능을 이용해 실제 Repository와 맵핑한다.
+3. 만약 관련된 Repository가 없다면 Main Repository에 맵핑한다.
+
 
 ## 걱정사항
 
